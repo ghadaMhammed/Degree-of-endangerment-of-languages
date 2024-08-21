@@ -44,5 +44,7 @@
 <ul>
   <li>Pandas</li>
   <li>matplotlib</li>
+  <li>adjustText</li>
+  <li>NumPy</li>
 </ul>
 
